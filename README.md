@@ -1,8 +1,11 @@
 # eCommerceCMS
 #an e-commerce site with WordPress / WooCommerce
 #list of installed plugins :
-- WooCommerce,
-- SEO,
+- WooCommerce(PAY. Payment Methods),
+- Yoast SEO,
+- WPForms Lite
 - Elementor,
-- GDPR (General Data Protection Regulation),
+- GDPR Cookie Consent (General Data Protection Regulation),
 - multilingual,
+- Starter Templates,
+- 
