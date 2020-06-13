@@ -8,4 +8,4 @@
 - GDPR Cookie Consent (General Data Protection Regulation),
 - multilingual,
 - Starter Templates,
-- 
+- weglot traslante,
