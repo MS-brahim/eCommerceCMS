@@ -1,5 +1,10 @@
 # eCommerceCMS
-#an e-commerce site with WordPress / WooCommerce
+#an e-commerce site with WordPress / WooCommerce.
+
+#Steps
+step 1 : Create database name : wordcommerce .
+Step 2 : insert file wordcommerce.sql.
+
 #list of installed plugins :
 - WooCommerce(PAY. Payment Methods),
 - Yoast SEO,
